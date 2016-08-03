@@ -8,7 +8,6 @@ CATEGORY="Devel"
 SUMMARY="LZ4 de/compressor for Win32 toolchain"
 DESCRIPTION="LZ4 is an LZ77-type compressor with a fixed, byte-oriented
 encoding. The most important design principle behind LZ4 is simplicity."
-HOMEPAGE="https://code.google.com/p/lz4/"
 HOMEPAGE="https://cyan4973.github.io/lz4/"
 SRC_URI="https://github.com/Cyan4973/lz4/archive/r${VERSION}/lz4-r${VERSION}.tar.gz"
 SRC_DIR="lz4-r${VERSION}"
